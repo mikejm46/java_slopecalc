@@ -1,7 +1,7 @@
 package slopecalc;
 
 
-import java.util.ArrayList;
+//import java.util.ArrayList;
 
 import javax.swing.ImageIcon;
 import javax.swing.JComponent;
